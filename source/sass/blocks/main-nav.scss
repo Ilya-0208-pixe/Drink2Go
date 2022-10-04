@@ -6,11 +6,9 @@
   position: absolute;
   top: 0;
   left: 50%;
-
   display: block;
   width: 185px;
   height: 96px;
-
   transform: translateX(-50%);
 }
 
@@ -19,12 +17,10 @@
   top: 17px;
   right: 20px;
   z-index: 10;
-
   width: 23px;
   height: 22px;
-
   background-color: transparent;
-  background-image: url("../img/icon-menu.svg");
+  background-image: url("../img/icons/icon-menu-button");
   background-repeat: no-repeat;
   background-size: contain;
   border: none;
