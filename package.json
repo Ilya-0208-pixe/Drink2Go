@@ -1,0 +1,22 @@
+{
+  "name": "drink2go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilya-0208-pixe/Drink2Go.git"
+  },
+  "author": "Ilya-0208-pixe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilya-0208-pixe/Drink2Go/issues"
+  },
+  "homepage": "https://github.com/Ilya-0208-pixe/Drink2Go#readme",
+  "devDependencies": {
+    "package": "^1.0.1"
+  }
+}
