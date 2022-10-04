@@ -4,8 +4,12 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "editorconfig": "editorconfig-cli",
+    "stylelint": "stylelint \"source/sass/**/*.scss\" --syntax scss",
+    "lint": "npm run editorconfig && npm run stylelint",
+    "build": "gulp build",
+    "start": "gulp"
+ },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ilya-0208-pixe/Drink2Go.git"
